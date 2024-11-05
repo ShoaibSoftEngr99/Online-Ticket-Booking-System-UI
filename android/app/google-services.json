@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398980733290",
+    "project_id": "shoaibnew2-f25a0",
+    "storage_bucket": "shoaibnew2-f25a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398980733290:android:8e2b8c5bc12a0b74646d13",
+        "android_client_info": {
+          "package_name": "com.example.online_ticket_booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC259Sq-ekUGxz_rbcCsd6iCswPg1ApSk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
